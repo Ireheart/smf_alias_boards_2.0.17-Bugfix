@@ -1,0 +1,4 @@
+[hr]
+[center][color=red][size=16pt][b]NOTICE!!![/b][/size][/color][/center]
+[hr]
+Uninstalling this mod will change your aliased boards back to redirected boards.  By removing the database changes, future versions of the mod will be prevented from making the aliased boards into proper aliases again!
